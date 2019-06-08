@@ -20,4 +20,3 @@ npm run watch
 
 ## Demo
 [Demo is here](https://sagadsalem.github.io/tailwindcss/)
-https://sagadsalem.github.io/tailwindcss/
